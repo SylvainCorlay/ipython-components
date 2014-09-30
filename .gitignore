@@ -56,3 +56,9 @@ moment/*
 !moment/min/
 moment/min/*
 !moment/min/moment.min.js
+
+term.js/Makefile
+term.js/example/
+term.js/index.js
+term.js/lib/
+term.js/.npmignore
