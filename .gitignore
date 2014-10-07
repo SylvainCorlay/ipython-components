@@ -56,3 +56,7 @@ moment/*
 !moment/min/
 moment/min/*
 !moment/min/moment.min.js
+
+# Bootstrap-tags excludes
+bootstrap-tags/Guardfile
+bootstrap-tags/sass/*.scss
